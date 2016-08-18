@@ -1,0 +1,103 @@
+Same Language Notes (English) 
+
+	Country and Blues - Song's BPM spikes a significant amount towards the end
+
+	Only Jazz - Song's BPM decreases towards the end 
+
+	All but Jazz - The Song's BPM increases towards the end 
+
+	Pop, Country, Blues - All have an amount of time where there is no sound (roughly 20-30 seconds or so)
+
+	Blues, Country, Rock - Song's BPM starts off higher than others
+
+	Pop, Jazz, Classical - Song's BPM starts around 0 or 5
+
+	Pop, Rock, Classical, Jazz - Song's BPM changes(drops and increases) 12 or 13 times
+
+	Blues - Song's BPM changes(drops and increases) 8 times
+
+	Country - Song's BPM changes(drops and increases) 17 times
+
+	*Blues and Country - Around 100 seconds the Song's BPM increases
+
+	*Pop, Rock, Classical, Jazz - Around 100 seconds the Song's BPM drops
+
+	All but Jazz - Around half mark of each song the Song's BPM is either low or decreasing
+
+	*Note - Songs aren't exactly same length so this actually shows no meaning
+
+
+
+
+Studio and Live Notes (In different languages)
+
+	All - Live version there's pause after the piece ends
+
+	Only KR - The Live and Studio Version end in a similar manner. Song's BPM increases then pauses
+
+	Only JP Studio - There's a very large spike in BPM at the end before the song ends (Possibly because the song has sound while the others have a few seconds of no sound)
+
+	CH Live KR Live KR Studio - Song's BPM changes 14 times
+
+	CH Studio - Song's BPM changes 21 times
+
+	EN Studio JP Studio JP Live - Song's BPM changes 12 times
+
+	EN Live - Song's BPM changes 13 times
+
+	All Live - Start at a relatively higher BPM (possibly due to audience cheering and clapping at the start)
+
+	EN Studio Vs Others - Only EN studio starts around 0 BPM, all others start at a higher BPM
+
+	CH Both KR Live JP Both- Halfway through song the BPM is increasing 
+
+	EN Both KR Studio - Halfway through song the BPM is decreasing
+
+
+Piano and Cover Notes(In different languages)
+
+	Only EN Cover - Song's BPM starts around 0-5 BPM, all others start at a higher BPM
+
+	JP Both, KR Piano - Song's BPM towards the end does not have a sound pause
+
+	KR Cover, EN Both, CH Both - Song's BPM towards the end has a pause after the song ends
+
+	EN Cover - Song's BPM continually increases towards the end of the piece 
+
+	KR Piano, EN Cover - Song's BPM changes 12 times
+
+	KR Cover, CH Piano - Song's BPM changes 15 times   
+
+	EN Piano - Song's BPM Changes 10 times 
+
+	JP Cover - Song's BPM Changes 21 times 
+
+	JP Piano - Song's BPM changes 17 times
+
+	CH Cover - Song's BPM changes 16 times
+
+	JP Piano, EN Piano, CH Piano, KR Piano, KR Cover - Halfway through the song the BPM is increasing
+
+	JP Cover, EN Cover, CH Cover - Halfway through the song the BPM is decreasing
+
+
+
+Special Notes 
+
+	JP Piano - Not done with a synthisizer(couldn't find a proper version); Done by a person
+
+	EN Cover - Person sings and plays the guitar. 
+
+	Other Covers - Song is played in the background with the singing
+
+	KR Cover - Only song with Multiple Singers (person that cover recorded multiple times)
+
+	KR Live - People cheering while during start of the song 
+
+	JP Live - People cheering during first pause of the song (can hear instruments being played live)
+
+	CH Live, EN Live - Audience is not cheering while artist sings (at the start)
+
+	EN Live - Artist speaks at the end 
+
+	KR Live - Audience cheers at the end 
